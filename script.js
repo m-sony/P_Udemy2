@@ -256,4 +256,7 @@ window.onload = function () {
     };
 
 
+    //Code de commentaire by 1Kevinson 
+
+
 }
